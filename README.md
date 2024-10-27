@@ -1,4 +1,4 @@
-# Siswe Moroaswe
+# Siswe Moroaswi
 
 **Degree**: Mathematics and Statistics  
 **Certification**: Certified Data Scientist  
